@@ -1,0 +1,11 @@
+.root {
+	-fx-background-color: radial-gradient(center 50% 50% , radius 100% , #c1c1c1, #ffffff);
+}
+
+.title {
+	-fx-font-size: 26px;
+}
+
+.p {
+	-fx-font-size: 16px;
+}
